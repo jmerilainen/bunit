@@ -1,3 +1,5 @@
+# Based on https://github.com/fly-apps/bun/blob/main/Dockerfile
+
 FROM debian:stable-slim as base
 
 FROM base as bun
